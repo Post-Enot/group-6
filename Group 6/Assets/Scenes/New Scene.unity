@@ -121,6 +121,213 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &113633470
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.32948
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.1336608
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.192309
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819619, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_Name
+      value: SkibidiToilet (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a5af91501e4cf134687f71d668d2f9c1, type: 3}
+--- !u!1001 &177990551
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.2283554
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.364337
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.4688425
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819619, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_Name
+      value: SkibidiToilet (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a5af91501e4cf134687f71d668d2f9c1, type: 3}
+--- !u!1001 &297832522
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.734502
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.183811
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.2099485
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819619, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_Name
+      value: SkibidiToilet (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a5af91501e4cf134687f71d668d2f9c1, type: 3}
 --- !u!1 &604562729
 GameObject:
   m_ObjectHideFlags: 0
@@ -204,6 +411,75 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1325727102
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.5915363
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.2257054
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.9806833
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819619, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_Name
+      value: SkibidiToilet (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a5af91501e4cf134687f71d668d2f9c1, type: 3}
 --- !u!1 &1501575770
 GameObject:
   m_ObjectHideFlags: 0
@@ -294,8 +570,146 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1001 &1719500252
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.023935
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.4763637
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.512043
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819619, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_Name
+      value: SkibidiToilet (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a5af91501e4cf134687f71d668d2f9c1, type: 3}
+--- !u!1001 &1845253083
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.5972316
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.0246873
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.2061863
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819619, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_Name
+      value: SkibidiToilet (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a5af91501e4cf134687f71d668d2f9c1, type: 3}
 --- !u!1001 &1860444392
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -362,6 +776,75 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SkibidiToilet
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a5af91501e4cf134687f71d668d2f9c1, type: 3}
+--- !u!1001 &1883310548
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.3703413
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.9840426
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.456162
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819618, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 193011071309819619, guid: a5af91501e4cf134687f71d668d2f9c1,
+        type: 3}
+      propertyPath: m_Name
+      value: SkibidiToilet (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a5af91501e4cf134687f71d668d2f9c1, type: 3}
